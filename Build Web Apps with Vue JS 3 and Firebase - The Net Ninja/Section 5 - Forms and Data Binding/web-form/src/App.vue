@@ -1,4 +1,5 @@
 <template>
+  <h1>Web Forms and Data Binding</h1>
 </template>
 
 <script>
